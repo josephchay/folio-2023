@@ -24,7 +24,7 @@ This is the second-iteration of my portfolio site, with a new design and improve
 
 ![OGL](https://img.shields.io/badge/-OGL-000000?style=for-the-badge&logo=webgl&logoColor=white) &nbsp; - background on landing page (Earlier was using [Three.js](https://threejs.org/) - also really good tool, but decided to learn something new. Also you should definitely check out [metaballs.js](https://www.npmjs.com/package/metaballs-js) and [particles.js](https://vincentgarreau.com/particles.js/)).
 
-![LocomotiveScroll](https://img.shields.io/badge/-LocomotiveScroll-000000?style=for-the-badge&logo=webgl&logoColor=white) &nbsp; - makes the page scroll smoothly on PC
+![LocomotiveScroll](https://img.shields.io/badge/-LocomotiveScroll-000000?style=for-the-badge&logo=locomotive&logoColor=white) &nbsp; - makes the page scroll smoothly on PC
 
 ## License
 
