@@ -1,0 +1,26 @@
+{
+  "name": "Joseph Chay",
+  "short_name": "JC",
+  "description": "Folio website created for Joseph Chay 2023",
+  "icons": [
+    {
+      "src": "/android-chrome-131x192.png",
+      "sizes": "131x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-350x512.png",
+      "sizes": "350x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/maskable_icon.png",
+      "sizes": "350x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "display": "standalone",
+  "start_url": ".",
+  "background_color": "#030303"
+}
